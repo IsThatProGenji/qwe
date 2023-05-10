@@ -1,0 +1,3 @@
+C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\text_to_speech-0.2.3\android\src\main\kotlin\com\ixsans\text_to_speech\MethodCallHandlerImpl.kt
+C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\text_to_speech-0.2.3\android\src\main\kotlin\com\ixsans\text_to_speech\TextToSpeechPlugin.kt
+C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\text_to_speech-0.2.3\android\src\main\kotlin\com\ixsans\text_to_speech\Tts.kt

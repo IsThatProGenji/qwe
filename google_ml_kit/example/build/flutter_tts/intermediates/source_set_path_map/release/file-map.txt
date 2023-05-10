@@ -1,0 +1,14 @@
+com.tundralabs.fluttertts.flutter_tts-core-1.8.0-0 C:\Users\rionu\.gradle\caches\transforms-3\2647c6f9e207279b3fe6085096ed5274\transformed\core-1.8.0\res
+com.tundralabs.fluttertts.flutter_tts-lifecycle-runtime-2.3.1-1 C:\Users\rionu\.gradle\caches\transforms-3\7cbd1290df572ba2846bd2fb50418823\transformed\lifecycle-runtime-2.3.1\res
+com.tundralabs.fluttertts.flutter_tts-jetified-annotation-experimental-1.1.0-2 C:\Users\rionu\.gradle\caches\transforms-3\b1c0d33d3c2cbcddae963a72342a06b3\transformed\jetified-annotation-experimental-1.1.0\res
+com.tundralabs.fluttertts.flutter_tts-jetified-core-ktx-1.8.0-3 C:\Users\rionu\.gradle\caches\transforms-3\b8b47bcc1956ff0abd68408ea45af15f\transformed\jetified-core-ktx-1.8.0\res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-1.0.0-beta04-4 C:\Users\rionu\.gradle\caches\transforms-3\c044f703faab2e399537974fd6bbc35e\transformed\jetified-window-1.0.0-beta04\res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-java-1.0.0-beta04-5 C:\Users\rionu\.gradle\caches\transforms-3\ff1a5309aff80160f3e47cee8ff36ed3\transformed\jetified-window-java-1.0.0-beta04\res
+com.tundralabs.fluttertts.flutter_tts-main-6 C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\flutter_tts-3.6.0\android\src\main\res
+com.tundralabs.fluttertts.flutter_tts-release-7 C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\flutter_tts-3.6.0\android\src\release\res
+com.tundralabs.fluttertts.flutter_tts-pngs-8 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\flutter_tts\generated\res\pngs\release
+com.tundralabs.fluttertts.flutter_tts-resValues-9 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\flutter_tts\generated\res\resValues\release
+com.tundralabs.fluttertts.flutter_tts-rs-10 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\flutter_tts\generated\res\rs\release
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-11 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\flutter_tts\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-12 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\flutter_tts\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tundralabs.fluttertts.flutter_tts-merged_res-13 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\flutter_tts\intermediates\merged_res\release

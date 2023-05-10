@@ -1,0 +1,14 @@
+com.google_mlkit_commons-jetified-play-services-base-18.0.1-0 C:\Users\rionu\.gradle\caches\transforms-3\12873b0bf3d773b029a0576bae836f3e\transformed\jetified-play-services-base-18.0.1\res
+com.google_mlkit_commons-jetified-play-services-basement-18.0.0-1 C:\Users\rionu\.gradle\caches\transforms-3\5aab2ae0cee5fcdad464526e2d654de1\transformed\jetified-play-services-basement-18.0.0\res
+com.google_mlkit_commons-jetified-annotation-experimental-1.1.0-2 C:\Users\rionu\.gradle\caches\transforms-3\b1c0d33d3c2cbcddae963a72342a06b3\transformed\jetified-annotation-experimental-1.1.0\res
+com.google_mlkit_commons-jetified-window-1.0.0-beta04-3 C:\Users\rionu\.gradle\caches\transforms-3\c044f703faab2e399537974fd6bbc35e\transformed\jetified-window-1.0.0-beta04\res
+com.google_mlkit_commons-core-1.6.0-4 C:\Users\rionu\.gradle\caches\transforms-3\f3b10fa00aa58b15a4ada7b7b57575c4\transformed\core-1.6.0\res
+com.google_mlkit_commons-jetified-window-java-1.0.0-beta04-5 C:\Users\rionu\.gradle\caches\transforms-3\ff1a5309aff80160f3e47cee8ff36ed3\transformed\jetified-window-java-1.0.0-beta04\res
+com.google_mlkit_commons-main-6 C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\google_mlkit_commons-0.2.0\android\src\main\res
+com.google_mlkit_commons-release-7 C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\google_mlkit_commons-0.2.0\android\src\release\res
+com.google_mlkit_commons-pngs-8 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\generated\res\pngs\release
+com.google_mlkit_commons-resValues-9 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\generated\res\resValues\release
+com.google_mlkit_commons-rs-10 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\generated\res\rs\release
+com.google_mlkit_commons-mergeReleaseResources-11 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.google_mlkit_commons-mergeReleaseResources-12 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.google_mlkit_commons-merged_res-13 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\intermediates\merged_res\release

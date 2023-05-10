@@ -1,0 +1,15 @@
+com.google_mlkit_barcode_scanning-jetified-play-services-base-18.0.1-0 C:\Users\rionu\.gradle\caches\transforms-3\12873b0bf3d773b029a0576bae836f3e\transformed\jetified-play-services-base-18.0.1\res
+com.google_mlkit_barcode_scanning-jetified-play-services-basement-18.0.0-1 C:\Users\rionu\.gradle\caches\transforms-3\5aab2ae0cee5fcdad464526e2d654de1\transformed\jetified-play-services-basement-18.0.0\res
+com.google_mlkit_barcode_scanning-jetified-annotation-experimental-1.1.0-2 C:\Users\rionu\.gradle\caches\transforms-3\b1c0d33d3c2cbcddae963a72342a06b3\transformed\jetified-annotation-experimental-1.1.0\res
+com.google_mlkit_barcode_scanning-jetified-window-1.0.0-beta04-3 C:\Users\rionu\.gradle\caches\transforms-3\c044f703faab2e399537974fd6bbc35e\transformed\jetified-window-1.0.0-beta04\res
+com.google_mlkit_barcode_scanning-core-1.6.0-4 C:\Users\rionu\.gradle\caches\transforms-3\f3b10fa00aa58b15a4ada7b7b57575c4\transformed\core-1.6.0\res
+com.google_mlkit_barcode_scanning-jetified-window-java-1.0.0-beta04-5 C:\Users\rionu\.gradle\caches\transforms-3\ff1a5309aff80160f3e47cee8ff36ed3\transformed\jetified-window-java-1.0.0-beta04\res
+com.google_mlkit_barcode_scanning-pngs-6 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_barcode_scanning\generated\res\pngs\release
+com.google_mlkit_barcode_scanning-resValues-7 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_barcode_scanning\generated\res\resValues\release
+com.google_mlkit_barcode_scanning-rs-8 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_barcode_scanning\generated\res\rs\release
+com.google_mlkit_barcode_scanning-mergeReleaseResources-9 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_barcode_scanning\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.google_mlkit_barcode_scanning-mergeReleaseResources-10 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_barcode_scanning\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.google_mlkit_barcode_scanning-merged_res-11 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_barcode_scanning\intermediates\merged_res\release
+com.google_mlkit_barcode_scanning-packaged_res-12 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\intermediates\packaged_res\release
+com.google_mlkit_barcode_scanning-main-13 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_mlkit_barcode_scanning\android\src\main\res
+com.google_mlkit_barcode_scanning-release-14 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_mlkit_barcode_scanning\android\src\release\res

@@ -1,0 +1,15 @@
+com.google_mlkit_text_recognition-jetified-play-services-basement-18.1.0-0 C:\Users\rionu\.gradle\caches\transforms-3\3929b7ecbca767d57ff13e87212b23be\transformed\jetified-play-services-basement-18.1.0\res
+com.google_mlkit_text_recognition-jetified-annotation-experimental-1.1.0-1 C:\Users\rionu\.gradle\caches\transforms-3\b1c0d33d3c2cbcddae963a72342a06b3\transformed\jetified-annotation-experimental-1.1.0\res
+com.google_mlkit_text_recognition-jetified-play-services-base-18.1.0-2 C:\Users\rionu\.gradle\caches\transforms-3\bc6e167c7cf49d4744ed29054469a58f\transformed\jetified-play-services-base-18.1.0\res
+com.google_mlkit_text_recognition-jetified-window-1.0.0-beta04-3 C:\Users\rionu\.gradle\caches\transforms-3\c044f703faab2e399537974fd6bbc35e\transformed\jetified-window-1.0.0-beta04\res
+com.google_mlkit_text_recognition-core-1.6.0-4 C:\Users\rionu\.gradle\caches\transforms-3\f3b10fa00aa58b15a4ada7b7b57575c4\transformed\core-1.6.0\res
+com.google_mlkit_text_recognition-jetified-window-java-1.0.0-beta04-5 C:\Users\rionu\.gradle\caches\transforms-3\ff1a5309aff80160f3e47cee8ff36ed3\transformed\jetified-window-java-1.0.0-beta04\res
+com.google_mlkit_text_recognition-packaged_res-6 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_commons\intermediates\packaged_res\release
+com.google_mlkit_text_recognition-pngs-7 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_text_recognition\generated\res\pngs\release
+com.google_mlkit_text_recognition-resValues-8 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_text_recognition\generated\res\resValues\release
+com.google_mlkit_text_recognition-rs-9 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_text_recognition\generated\res\rs\release
+com.google_mlkit_text_recognition-mergeReleaseResources-10 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_text_recognition\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.google_mlkit_text_recognition-mergeReleaseResources-11 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_text_recognition\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.google_mlkit_text_recognition-merged_res-12 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\google_mlkit_text_recognition\intermediates\merged_res\release
+com.google_mlkit_text_recognition-main-13 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_mlkit_text_recognition\android\src\main\res
+com.google_mlkit_text_recognition-release-14 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_mlkit_text_recognition\android\src\release\res

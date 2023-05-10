@@ -1,0 +1,14 @@
+io.flutter.plugins.imagepicker.image_picker_android-core-1.8.0-0 C:\Users\rionu\.gradle\caches\transforms-3\2647c6f9e207279b3fe6085096ed5274\transformed\core-1.8.0\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.3.1-1 C:\Users\rionu\.gradle\caches\transforms-3\7cbd1290df572ba2846bd2fb50418823\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.1.0-2 C:\Users\rionu\.gradle\caches\transforms-3\b1c0d33d3c2cbcddae963a72342a06b3\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.0.0-beta04-3 C:\Users\rionu\.gradle\caches\transforms-3\c044f703faab2e399537974fd6bbc35e\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.0.0-beta04-4 C:\Users\rionu\.gradle\caches\transforms-3\ff1a5309aff80160f3e47cee8ff36ed3\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-main-5 C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\image_picker_android-0.8.5+3\android\src\main\res
+io.flutter.plugins.imagepicker.image_picker_android-release-6 C:\Users\rionu\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\image_picker_android-0.8.5+3\android\src\release\res
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-7 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-8 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\image_picker_android\generated\res\pngs\release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-9 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\image_picker_android\generated\res\resValues\release
+io.flutter.plugins.imagepicker.image_picker_android-rs-10 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\image_picker_android\generated\res\rs\release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-11 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-12 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-13 C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\image_picker_android\intermediates\merged_res\release

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.google_mlkit_translation-merged_res-12:/drawable-v21/notification_action_background.xml",
+        "source": "com.google_mlkit_translation-core-1.6.0-5:/drawable-v21/notification_action_background.xml"
+    }
+]

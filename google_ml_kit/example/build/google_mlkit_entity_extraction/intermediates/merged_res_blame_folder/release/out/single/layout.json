@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.google_mlkit_entity_extraction-merged_res-14:/layout/custom_dialog.xml",
+        "source": "com.google_mlkit_entity_extraction-core-1.6.0-7:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.google_mlkit_entity_extraction-merged_res-14:/layout/notification_template_part_time.xml",
+        "source": "com.google_mlkit_entity_extraction-core-1.6.0-7:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.google_mlkit_entity_extraction-merged_res-14:/layout/notification_template_part_chronometer.xml",
+        "source": "com.google_mlkit_entity_extraction-core-1.6.0-7:/layout/notification_template_part_chronometer.xml"
+    }
+]

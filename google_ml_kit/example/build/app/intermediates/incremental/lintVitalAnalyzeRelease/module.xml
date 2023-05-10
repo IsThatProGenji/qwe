@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.1"
+    buildFolder="C:\Users\rionu\flute\Google-Ml-Kit-plugin\packages\google_ml_kit\example\build\app"
+    bootClassPath="C:\Users\rionu\AppData\Local\Android\sdk\platforms\android-31\android.jar;C:\Users\rionu\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
